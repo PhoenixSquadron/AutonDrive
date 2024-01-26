@@ -1,4 +1,4 @@
-# PFL AutonDrive: UGV
+# PFL AutonDrive: UGV [![CI](https://github.com/bitcraze/bitcraze-website/workflows/CI/badge.svg)](https://github.com/PhoenixSquadron/AutonDrive/actions)
 
 ## Overview
 The proposed vehicle is an unmanned ground vehicle (UGV) designed for autonomous operation in indoor and outdoor logistics applications. Powered by an electric drivetrain and advanced sensing and computing capabilities, the UGV aims to automate material handling and fulfillment tasks currently performed manually throughout industrial warehouses.
