@@ -21,13 +21,17 @@ Potential applications include material transport within warehouses and between 
 <img width="1050" alt="Screenshot 2024-01-20 at 12 36 09 AM" src="https://github.com/PhoenixSquadron/AutonDrive/assets/82762631/1a87c9a4-648b-480b-a5dd-dfc570fde640">
 <img width="1049" alt="Screenshot 2024-01-20 at 12 39 04 AM" src="https://github.com/PhoenixSquadron/AutonDrive/assets/82762631/021697a8-3540-4c79-b7d6-481662372b84">
 
+***
+
 ## Meet the Team: 
 
-Student DevTeam: 
-- Steve Yin 
+Lead Development Team: 
+- Steve Yin
 - Marcus Chu
-- Ellen Wang
 - Shreyas Sharma
+
+Student Researchers: 
+- Ellen Zhao
 - Simon Jang
 - Warren He
 
