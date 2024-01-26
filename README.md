@@ -29,6 +29,7 @@ Student DevTeam:
 - Ellen Wang
 - Shreyas Sharma
 - Simon Jang
+- Warren He
 
 Special Thanks to: 
 - Caleb Hsu: Fabrication & Materials
