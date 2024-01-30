@@ -33,10 +33,10 @@ Lead Development Team:
 Student Researchers: 
 - Ellen Zhao
 - Simon Jang
+- Caleb Hsu
 - Warren He
 
 Special Thanks to: 
-- Caleb Hsu: Fabrication & Materials
 - Lucas Jeong: Creative Visualization Lead
 
 Mentors: 
